@@ -22,7 +22,16 @@ A simple and small project to control irrigation system from web.
 
 
 # What is Our Goal
-Our goal was to control irrigation system from anywhere with internet connection. Wheather you are connected or not this device will maintain irrigation.
+Our goal was to control irrigation system smart way from anywhere with internet connection. Wheather you are connected or not this device will maintain irrigation.
 This device also need internet access. We built a device that we can put in farming land take measure of soil moisture.
 If soil is required water then waterpump will pump water automatically. When water overflows in land then waterpump will stop pumping auto.
 We can manually control waterpump as well. We can also take value of temperature and humidty.
+
+
+# Technologies Used
+1. PHP
+2. MySql
+3. Javascript
+4. HTML
+5. CSS
+6. Bootstrap
